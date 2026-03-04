@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am currently studying Computer Engineering at the Federal University of Pelotas (UFPEL). In my eighth semester, I have a strong foundation in algorithms and Object-Oriented Programming. I am currently part of a research project focused on Multi-Agent Systems (MAS) and LLM integration. I am actively looking for job opportunities in software development.
+I am currently studying Computer Engineering at the Federal University of Pelotas (UFPEL).
+
+In my eighth semester, I have a strong foundation in algorithms and Object-Oriented Programming. 
+
+Currently part of a research project focused on Multi-Agent Systems (MAS) and LLM integration. 
+
+Actively looking for job opportunities in software development.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cassiano_pessoa) 
