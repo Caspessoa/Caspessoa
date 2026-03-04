@@ -1,30 +1,35 @@
-# 💫 About Me:
-I am currently studying Computer Engineering at the Federal University of Pelotas (UFPEL).
+<div align="center">
+  <h1>Cassiano Pessoa</h1>
+  <p>Estudante de Engenharia de Computação (UFPEL) | Desenvolvedor de Software</p>
 
-In my eighth semester, I have a strong foundation in algorithms and Object-Oriented Programming. 
+  <a href="https://linkedin.com/in/cassiano-pessoa">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/cassiano_pessoa">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:solucoesdigitaiscp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
 
-Currently part of a research project focused on Multi-Agent Systems (MAS) and LLM integration. 
+<br>
 
-Actively looking for job opportunities in software development.
+## 👨‍💻 Sobre mim
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cassiano_pessoa) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cassiano-pessoa) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:solucoesdigitaiscp@gmail.com) 
+* 🎓 Graduando no 8º semestre de **Engenharia de Computação** na Universidade Federal de Pelotas.
+* 🤖 Pesquisador focado em **Sistemas Multiagente (MAS)** e integração com **LLMs**.
+* 💻 Foco em algoritmos, programação orientada a objetos e estruturação de código.
+* 💼 Atualmente buscando oportunidades em desenvolvimento de software, enquanto atuo como técnico de informática autônomo.
 
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## 🛠️ Tecnologias Base
 
-# 📊 GitHub Stats:
+**Linguagens Principais:** Python | C | C++ | Java
+
+<br>
+
+## 📊 Estatísticas
+
 ![](https://github-readme-stats.vercel.app/api?username=Caspessoa&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Caspessoa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Caspessoa&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Caspessoa&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Caspessoa&icon=0&color=0)](https://visitcount.itsvg.in)
